@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **erfan-git/erfan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/60779a44-6187-4bf4-890d-2daba129dfbf">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="100%">
+  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/60779a44-6187-4bf4-890d-2daba129dfbf" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="./light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c">
+  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c" width="100%">
 </picture>
+
