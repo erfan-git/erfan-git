@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**erfan-git/erfan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **erfan-git/erfan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/3fc245dd-2f5b-4722-a5e5-6de15b2e20ba">
+  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/3fc245dd-2f5b-4722-a5e5-6de15b2e20ba" width="70%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/60779a44-6187-4bf4-890d-2daba129dfbf">
@@ -22,6 +26,6 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c" width="100%">
+  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c" width="50%">
 </picture>
 
