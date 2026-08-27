@@ -1,32 +1,17 @@
-<!-- ### Hi there 👋 **erfan-git/erfan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/3fc245dd-2f5b-4722-a5e5-6de15b2e20ba">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/3fc245dd-2f5b-4722-a5e5-6de15b2e20ba" width="70%">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/60779a44-6187-4bf4-890d-2daba129dfbf">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/60779a44-6187-4bf4-890d-2daba129dfbf" width="100%">
-</picture>
+<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/c345ded0-d156-40ee-9e42-86c51967816c" width="50%">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/erfan-git/erfan-git/assets/68124659/251fbdb2-626f-49cf-998f-ea1cced3a7d8">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://github.com/erfan-git/erfan-git/assets/68124659/251fbdb2-626f-49cf-998f-ea1cced3a7d8" width="50%">
-</picture>
+<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1IkMNzoenLLwWftBHaCCqiUwh50YCQe3c/view"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
+<a href="https://github.com/erfan-git"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="mailto:naderi.jyc@gmail.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
+
+</div>

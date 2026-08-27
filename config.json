@@ -1,0 +1,11 @@
+{
+  "username": "erfan-git",
+  "name": "Erfan Naderi",
+  "wordmark": "ERFAN",
+  "role": "Senior Mobile developer · AI Engineer · Data Scientist",
+  "location": "Tehran, Iran",
+  "status": "Building applications, agents and ai models.",
+  "website": "",
+  "photo": "assets/profile-source.png",
+  "skills": ["Flutter", "Dart", "Python", "Android", "iOS", "Machine Learning", "Deep Learning","LLM"]
+}
